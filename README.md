@@ -89,6 +89,8 @@ This file contains:
 -  Example commands with expected output
 -  Troubleshooting tips for common issues
 
+---
+
 ### Quick Start (Windows)
 ```bash
 # Clone the repository
