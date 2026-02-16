@@ -78,7 +78,7 @@ Client / Manager
 
 ##  How to Run
 
-For detailed compilation and execution instructions, please see:
+- For detailed compilation and execution instructions, please see:
 
 #  [RUNNING.md](./RUNNING.md)
 
