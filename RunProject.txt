@@ -1,0 +1,10 @@
+KWNNA
+javac -cp ".;C:\Users\anna\Desktop\\3220071_3220054_3220198\3220071_3220054_3220198\katanemimenaSystimata\libs\gson-2.8.9.jar" src\*.java
+java -cp "src;libs\gson-2.8.9.jar" 
+
+javac -cp ".;libs/gson-2.8.9.jar" BackEnd/*.java
+java -cp "BackEnd;libs/gson-2.8.9.jar" 
+
+FOTEINI
+javac --release 17 -encoding UTF-8 -cp ".;C:\Users\fsoti\katanemimenaSystimata\libs\gson-2.8.9.jar" -d out src\*.java
+java -cp "out;libs\gson-2.8.9.jar"

@@ -1,0 +1,29 @@
+{
+  "storeName": "BurgerTown",
+  "latitude": 34.0522,
+  "longitude": -118.2437,
+  "foodCategory": "burgers",
+  "stars": 5,
+  "noOfVotes": 220,
+  "storeLogo": "path/to/burgertown_logo.png",
+  "products": [
+    {
+      "productName": "classic burger",
+      "productType": "burger",
+      "availableAmount": 30,
+      "price": 7.0
+    },
+    {
+      "productName": "bacon cheeseburger",
+      "productType": "burger",
+      "availableAmount": 25,
+      "price": 8.5
+    },
+    {
+      "productName": "fries",
+      "productType": "side",
+      "availableAmount": 40,
+      "price": 3.0
+    }
+  ]
+}

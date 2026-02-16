@@ -1,0 +1,29 @@
+{
+  "storeName": "PizzaPlace",
+  "latitude": 40.7128,
+  "longitude": -74.0060,
+  "foodCategory": "pizzeria",
+  "stars": 4,
+  "noOfVotes": 150,
+  "storeLogo": "path/to/logo.png",
+  "products": [
+    {
+      "productName": "margherita",
+      "productType": "Pizza",
+      "availableAmount": 20,
+      "price": 8.5
+    },
+    {
+      "productName": "pepperoni",
+      "productType": "Pizza",
+      "availableAmount": 15,
+      "price": 9.0
+    },
+    {
+      "productName": "greek salad",
+      "productType": "salad",
+      "availableAmount": 10,
+      "price": 5.5
+    }
+  ]
+}

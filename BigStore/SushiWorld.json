@@ -1,0 +1,29 @@
+{
+    "storeName": "SushiWorld",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "foodCategory": "sushi",
+    "stars": 4,
+    "noOfVotes": 180,
+    "storeLogo": "path/to/sushiworld_logo.png",
+    "products": [
+      {
+        "productName": "salmon nigiri",
+        "productType": "sushi",
+        "availableAmount": 20,
+        "price": 12.0
+      },
+      {
+        "productName": "tuna roll",
+        "productType": "sushi",
+        "availableAmount": 15,
+        "price": 11.0
+      },
+      {
+        "productName": "miso soup",
+        "productType": "soup",
+        "availableAmount": 30,
+        "price": 4.0
+      }
+    ]
+}

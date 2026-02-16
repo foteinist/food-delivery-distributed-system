@@ -1,0 +1,29 @@
+{
+    "storeName": "GreekDelights",
+    "latitude": 37.9838,
+    "longitude": 23.7275,
+    "foodCategory": "greek",
+    "stars": 4,
+    "noOfVotes": 160,
+    "storeLogo": "path/to/greekdelights_logo.png",
+    "products": [
+      {
+        "productName": "pork souvlaki",
+        "productType": "souvlaki",
+        "availableAmount": 35,
+        "price": 2.5
+      },
+      {
+        "productName": "chicken gyro",
+        "productType": "gyro",
+        "availableAmount": 30,
+        "price": 3.0
+      },
+      {
+        "productName": "greek salad",
+        "productType": "salad",
+        "availableAmount": 25,
+        "price": 5.5
+      }
+    ]
+  }

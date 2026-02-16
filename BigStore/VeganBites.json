@@ -1,0 +1,29 @@
+{
+  "storeName": "Vegan Bites",
+  "latitude": 51.5074,
+  "longitude": -0.1278,
+  "foodCategory": "vegan",
+  "stars": 4,
+  "noOfVotes": 140,
+  "storeLogo": "path/to/veganbites_logo.png",
+  "products": [
+    {
+      "productName": "vegan wrap",
+      "productType": "wrap",
+      "availableAmount": 20,
+      "price": 6.5
+    },
+    {
+      "productName": "tofu bowl",
+      "productType": "bowl",
+      "availableAmount": 15,
+      "price": 7.5
+    },
+    {
+      "productName": "quinoa salad",
+      "productType": "salad",
+      "availableAmount": 18,
+      "price": 5.0
+    }
+  ]
+}

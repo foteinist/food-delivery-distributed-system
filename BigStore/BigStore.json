@@ -1,0 +1,234 @@
+[
+  {
+    "storeName": "Pizza Paradise",
+    "latitude": 37.98381,
+    "longitude": 23.727539,
+    "foodCategory": "pizzeria",
+    "stars": 4,
+    "noOfVotes": 120,
+    "storeLogo": "/images/pizza_paradise.png",
+    "products": [
+      {
+        "name": "pepperoni",
+        "type": "pizza",
+        "stock": 30,
+        "price": 5.5
+      },
+      {
+        "name": "veggie",
+        "type": "pizza",
+        "stock": 20,
+        "price": 8.9
+      },
+      {
+        "name": "greek salad",
+        "type": "salad",
+        "stock": 50,
+        "price": 6.0
+      }
+    ]
+  },
+  {
+    "storeName": "Burger House",
+    "latitude": 37.99,
+    "longitude": 23.745,
+    "foodCategory": "burgers",
+    "stars": 5,
+    "noOfVotes": 200,
+    "storeLogo": "/images/burger_house.png",
+    "products": [
+      {
+        "name": "classic burger",
+        "type": "burger",
+        "stock": 40,
+        "price": 7.5
+      },
+      {
+        "name": "double cheeseburger",
+        "type": "burger",
+        "stock": 25,
+        "price": 9.0
+      },
+      {
+        "name": "fries",
+        "type": "side",
+        "stock": 10,
+        "price": 3.5
+      }
+    ]
+  },
+  {
+    "storeName": "Sushi Express",
+    "latitude": 37.9765,
+    "longitude": 23.7545,
+    "foodCategory": "sushi",
+    "stars": 4,
+    "noOfVotes": 85,
+    "storeLogo": "/images/sushi_express.png",
+    "products": [
+      {
+        "name": "california roll",
+        "type": "sushi",
+        "stock": 10,
+        "price": 12.0
+      },
+      {
+        "name": "salmon nigiri",
+        "type": "sushi",
+        "stock": 12,
+        "price": 14.5
+      },
+      {
+        "name": "miso soup",
+        "type": "soup",
+        "stock": 5,
+        "price": 4.0
+      }
+    ]
+  },
+  {
+    "storeName": "Pasta & Pizza Hub",
+    "latitude": 37.9845,
+    "longitude": 23.729,
+    "foodCategory": "italian",
+    "stars": 4,
+    "noOfVotes": 150,
+    "storeLogo": "/images/pasta_pizza_hub.png",
+    "products": [
+      {
+        "name": "pepperoni",
+        "type": "pizza",
+        "stock": 7,
+        "price": 8.5
+      },
+      {
+        "name": "margherita",
+        "type": "pizza",
+        "stock": 18,
+        "price": 9.0
+      },
+      {
+        "name": "greek salad",
+        "type": "salad",
+        "stock": 6,
+        "price": 6.0
+      }
+    ]
+  },
+  {
+    "storeName": "Mega Burgers",
+    "latitude": 37.9912,
+    "longitude": 23.7467,
+    "foodCategory": "burgers",
+    "stars": 5,
+    "noOfVotes": 180,
+    "storeLogo": "/images/mega_burgers.png",
+    "products": [
+      {
+        "name": "classic burger",
+        "type": "burger",
+        "stock": 32,
+        "price": 7.5
+      },
+      {
+        "name": "chicken burger",
+        "type": "burger",
+        "stock": 28,
+        "price": 8.5
+      },
+      {
+        "name": "fries",
+        "type": "side",
+        "stock": 20,
+        "price": 3.5
+      }
+    ]
+  },
+  {
+    "storeName": "Sushi Corner",
+    "latitude": 37.9778,
+    "longitude": 23.7559,
+    "foodCategory": "sushi",
+    "stars": 4,
+    "noOfVotes": 100,
+    "storeLogo": "/images/sushi_corner.png",
+    "products": [
+      {
+        "name": "california roll",
+        "type": "sushi",
+        "stock": 14,
+        "price": 12.0
+      },
+      {
+        "name": "tuna sashimi",
+        "type": "sushi",
+        "stock": 10,
+        "price": 15.0
+      },
+      {
+        "name": "miso soup",
+        "type": "soup",
+        "stock": 60,
+        "price": 4.0
+      }
+    ]
+  },
+  {
+    "storeName": "Souvlaki Stop",
+    "latitude": 37.982,
+    "longitude": 23.74,
+    "foodCategory": "greek",
+    "stars": 4,
+    "noOfVotes": 120,
+    "storeLogo": "/images/souvlaki_stop.png",
+    "products": [
+      {
+        "name": "pork souvlaki",
+        "type": "souvlaki",
+        "stock": 45,
+        "price": 2.5
+      },
+      {
+        "name": "chicken souvlaki",
+        "type": "souvlaki",
+        "stock": 40,
+        "price": 2.8
+      },
+      {
+        "name": "greek salad",
+        "type": "salad",
+        "stock": 7,
+        "price": 6.0
+      }
+    ]
+  },
+  {
+    "storeName": "Grill & Fries",
+    "latitude": 37.993,
+    "longitude": 23.752,
+    "foodCategory": "fast food",
+    "stars": 4,
+    "noOfVotes": 130,
+    "storeLogo": "/images/grill_fries.png",
+    "products": [
+      {
+        "name": "double cheeseburger",
+        "type": "burger",
+        "stock": 22,
+        "price": 9.0
+      },
+      {
+        "name": "fries",
+        "type": "side",
+        "stock": 32,
+        "price": 3.5
+      },
+      {
+        "name": "chicken wings",
+        "type": "side",
+        "stock": 15,
+        "price": 6.0
+      }
+    ]
+  }
+]
