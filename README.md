@@ -44,6 +44,15 @@ Client / Manager
 | **Manager** | Admin console for store management (CLI) |
 | **Client** | End-user interface (Android app) | 
 
+##  User Interface
+
+### Master Server Interface
+The Master server provides a simple console interface for monitoring and control:
+
+![Master Server UI](images/master-ui.png)
+
+*Figure 1: Master server console showing connected workers and active requests*
+
 ---
 
 ##  Features
