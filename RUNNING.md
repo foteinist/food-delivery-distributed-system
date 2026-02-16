@@ -90,7 +90,31 @@ java -cp "BackEnd;libs/gson-2.8.9.jar" Client <YOUR_IP> 5000
 
 ---
 
-## 5. Example Commands
+## 5. Android Client
+
+The Android client allows mobile interaction with the system (search stores, place orders, rate stores).
+
+### Prerequisites
+
+- Android Studio 2022.2+
+- Device or Emulator (Android 7.0/API 24+)
+- Ensure backend nodes (Master, Workers, Reducer) are running
+
+### Steps
+
+1. Open the project in **Android Studio** (`app/` folder).  
+2. Configure the backend IP in `Config.java`:
+
+```java
+public static final String MASTER_IP = "192.168.1.10";
+public static final int MASTER_PORT = 5000;
+```
+3. Run the app on your device or emulator.
+4. Ensure the device/emulator is on the same network as the backend.
+
+---
+
+## 6. Example Commands
 
 ### Manager Console
 
